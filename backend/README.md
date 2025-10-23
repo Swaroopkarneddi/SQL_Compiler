@@ -42,7 +42,7 @@ A small Django REST backend that lets authorized users execute SQL queries again
 Install dependencies (example):
 
 ```bash
-pip install django djangorestframework
+pip install django djangorestframework  django-cors-headers
 ```
 
 ## Installation
